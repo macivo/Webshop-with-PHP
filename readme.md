@@ -1,10 +1,12 @@
-Name der Webapplikation: macbobby-shop 
+# Name der Webapplikation: macbobby-shop 
 
-BFH-Emailadressen der Teammitglieder:
-Bobby Lien vienphatbobby.lien@students.bfh.ch, 
-Mac Mülller mac.mueller@students.bfh.ch 
+### BFH-Emailadressen der Teammitglieder:
 
-Gitlab-Repo:                                                           https://gitlab.ti.bfh.ch/mullk8/web-programming-bti7054-mac-m-ller-and-bobby-lien
+Bobby Lien vienphatbobby.lien@students.bfh.ch, Mac Mülller mac.mueller@students.bfh.ch 
+
+
+
+#####
 
 URL der Webapplikation:                                     http://macbobby-shop.bplaced.net/webshop/
 
