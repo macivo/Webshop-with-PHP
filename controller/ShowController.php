@@ -18,7 +18,7 @@ class ShowController {
         return $clicked_product[0];
     }
     /**
-     * list alls product-options from id: color or memory
+     * list all product-options from id: color or memory
      */
     private function generateOption(){
         $data['options'] = Option::getOptionById($this->id);

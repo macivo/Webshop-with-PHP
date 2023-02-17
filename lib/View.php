@@ -24,7 +24,7 @@ class View
         if(!file_exists($view)) {
             throw new Exception("No template");
         }
-        /** fectch the data as array */
+        /** fetch the data as array */
         foreach ($this->controller->getData() as $key=>$value){
             $$key = $value;
         }

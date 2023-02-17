@@ -17,7 +17,7 @@ class Controller
     public function __construct() {
     }
 
-    /** funtions for the pages
+    /** functions for the pages
      * Function: homepage
      */
     public function homepage(Request $request) {
@@ -39,7 +39,7 @@ class Controller
     }
 
     /**
-     * Function: Admin: alway check the admin-right by every calls
+     * Function: Admin: always check the admin-right by every calls
      */
     public function admin(Request $request){
         $this->title = "Administrator";
