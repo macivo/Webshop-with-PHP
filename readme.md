@@ -1,4 +1,4 @@
-# ![](https://github.com/macivo/BFH-Hyperdrive/blob/35d68406f71fcd667e71a2cdd6147c66c41b4a40/git_public/BFH_LOGO.svg) Bern University of Applied Sciences
+# ![BFH_LOGO](https://github.com/macivo/BFH-Hyperdrive/blob/35d68406f71fcd667e71a2cdd6147c66c41b4a40/git_public/BFH_LOGO.svg) Bern University of Applied Sciences
 #### Student: Mac Müller, Bobby Lien
 #### Advisor: Kai Brünnler
 
@@ -16,9 +16,6 @@ Project: Web Shop
 10. Some AJAX-based features
 
 Name der Webapplikation: macbobby-shop 
-
-phpMyAdmin Account: macbobby-shop_dbAdmin
-Password: mac1232425
 
 Account im shop: 
 - user = test
