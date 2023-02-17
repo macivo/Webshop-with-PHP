@@ -1,6 +1,6 @@
 # ![BFH_LOGO](https://github.com/macivo/BFH-Hyperdrive/blob/35d68406f71fcd667e71a2cdd6147c66c41b4a40/git_public/BFH_LOGO.svg) Bern University of Applied Sciences
 #### Student: Mac Müller, Bobby Lien
-#### Advisor: Kai Brünnler
+#### Advisor: Prof. Dr. Kai Brünnler
 
 Project: Web Shop
 1. Multiple categories of smartphones
